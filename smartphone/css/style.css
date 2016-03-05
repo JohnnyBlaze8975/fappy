@@ -381,6 +381,7 @@ img{max-width:100%;}
 	color: #888;
 	text-transform: uppercase;
 	display: block;
+	text-align: center;
 }
 /*----start-pagenation-----*/
 .pagenation{
