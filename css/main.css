@@ -362,6 +362,7 @@ a.dropdown-toggle{
 
 .navbar-inverse .navbar-nav .dropdown-menu > li:last-child > a {
   border-radius: 0 0 3px 3px;
+
 }
 
 .navbar-inverse .navbar-nav .dropdown-menu > li.divider {
@@ -467,6 +468,10 @@ a.dropdown-toggle{
 #main-slider .prev:hover,
 #main-slider .next:hover {
   background-color: #000;
+}
+
+a.prev.hidden-xs, a.next.hidden-xs{
+  font-size: 2em;
 }
 
 #main-slider .prev {
