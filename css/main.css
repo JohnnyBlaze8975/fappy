@@ -49,6 +49,7 @@ a {
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
   transition:  color 300ms, background-color 300ms;
+  font-size: 2em;
 }
 
 a:hover, a:focus {
@@ -187,7 +188,7 @@ body > section {
 }
 
 .top-bar {
-  padding: 10px 0;
+  padding: 3px 0;
   background: #191919;
   border-bottom: 1px solid #222;
   line-height: 28px;
@@ -296,8 +297,8 @@ a.dropdown-toggle{
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  padding: 5px 12px;
-  margin: 11px;
+  padding: 12px 12px;
+  margin: 21px;
   border-radius: 3px;
   color: #fff;
   line-height: 24px;
@@ -989,8 +990,9 @@ a.accordion-toggle  i{
 }
 
 #partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+  background: url(../images/partners/partner_bg.gif) 50% 50% no-repeat;
   background-size: cover;
+  height: 53em;
 }
 
 #partner {
